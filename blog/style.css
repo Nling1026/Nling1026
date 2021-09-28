@@ -10,9 +10,11 @@ body {
 }
 
 .capybara {
+  text-align: center;
   background-image: url(media/beach.jpg); /* sets the background around the .beach text */
-  height: 50vh; /* sets the height of the element (vh operates in relation to the screen's height */
+  height: 20vh; /* sets the height of the element (vh operates in relation to the screen's height */
   border: 8px solid black; /* creates a colored border around the element */
+  margin-top: 50px;
 }
 
 .beta {
